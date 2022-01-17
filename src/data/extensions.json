@@ -1,0 +1,52 @@
+{
+    "Musics": [
+        ".aac",
+        ".avi",
+        ".mp3"
+    ],
+    "Videos": [
+        ".mp4",
+        ".mpeg",
+        ".svg",
+        ".vsd",
+        ".mpg",
+        ".mov",
+        ".mkv"
+    ],
+    "Pictures": [
+        ".bmp",
+        ".gif",
+        "ico",
+        ".jpeg",
+        ".jpg",
+        ".png",
+        ".tif",
+        ".heic"
+    ],
+    "Apps": [
+        ".bin",
+        ".csh",
+        ".sh",
+        ".exe"
+    ],
+    "Compressed": [
+        ".rar",
+        ".zip"
+    ],
+    "Documents": [
+        ".css",
+        ".doc",
+        ".docx",
+        ".pdf",
+        ".ppt",
+        ".pptx",
+        ".txt",
+        ".xls",
+        ".xlsx"
+    ],
+    "Data": [
+        ".json",
+        ".csv",
+        ".ttf"
+    ]
+}
